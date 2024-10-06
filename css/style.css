@@ -245,7 +245,7 @@
     margin-right: auto;
     margin-left: auto;
 
-    height: 1000px;
+    height: 2000px;
     width: 75%;
     box-sizing: content-box;
     background: #cab2fb;
@@ -264,6 +264,17 @@
     margin-left: auto;
     box-shadow: 5px 5px 10px 5px;
     height: 200px;
+    width: 90%;
+    background: white;
+}
+
+.site-main .Assignment2 {
+    padding-top: 20px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 5px 5px 10px 5px;
+    height: 500px;
     width: 90%;
     background: white;
 }
