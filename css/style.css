@@ -245,7 +245,7 @@
     margin-right: auto;
     margin-left: auto;
 
-    height: 2000px;
+    height: 3000px;
     width: 75%;
     box-sizing: content-box;
     background: #cab2fb;
@@ -263,7 +263,7 @@
     margin-right: auto;
     margin-left: auto;
     box-shadow: 5px 5px 10px 5px;
-    height: 200px;
+    height: 300px;
     width: 90%;
     background: white;
 }
